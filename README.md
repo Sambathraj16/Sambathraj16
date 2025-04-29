@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sambathraj 
 - 👀 I’m interested in Data Science 
-- 🔭 I’m currently learning about LSTM networks 
+- 🔭 I’m currently learning about Transformers
 - 🦾👷‍♂️I’m looking to collaborate on projects which involves time series analysis , anomaly detection and so 
 
 <!---
